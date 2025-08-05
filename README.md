@@ -1,5 +1,4 @@
 # Welcome to My Web
-<div style="background-color:#111111; color:#f0f0f0; padding: 40px; font-family: 'Courier New', monospace;">
 Hi！I’m Wan.  
 I'm a master's student at the Hokkaido University.  
 This is my little corner on the internet — a space to collect things I like and share bits of daily life and inspiration.
@@ -25,4 +24,3 @@ This is my little corner on the internet — a space to collect things I like an
 
 Feel free to contact me at:  
 **zhe.wan.a5@elms.hokudai.ac.jp**
-</div>
