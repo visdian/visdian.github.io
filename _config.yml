@@ -1,0 +1,6 @@
+theme: jekyll-theme-midnight
+title: 我的兴趣站
+description: 一个简单的页面，展示我喜欢的东西和我自己
+plugins:
+  - jemoji
+markdown: kramdown
